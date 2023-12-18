@@ -3,10 +3,10 @@ php decode tool, hex to string etc.
 
 
 ## **Demo** ##
-[icai.github.io/unphp/](https://icai.github.io/unphp/)
+[jscck.github.io/unphp/](jscck.github.io/unphp/)
 
 
-This tool use to decode php code, special for wp-autopost plugin <a href="javascript:;" target="_blank">http://wp-autopost.org/</a>, writed by javascript. make more fast than <a href="http://www.unphp.net/" target="_blank">UnPHP - The Online PHP Decoder</a>, just use local explain.
+This tool use to decode php code, writed by javascript. make more fast than <a href="http://www.unphp.net/" target="_blank">UnPHP - The Online PHP Decoder</a>, just use local explain.
 
 
 **Decode:**
